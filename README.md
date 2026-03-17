@@ -44,8 +44,6 @@ suspicious-login-detector/
 
 ## Future Improvements
 - Real-time alert dashboard
-- GeoIP-based login visualization
+- Location based login visualization
 - IP reputation / threat intelligence API integration
 - Simulated IP block and unblock actions
-- User behavior baselining
-- Nmap-based host enrichment for flagged IPs
