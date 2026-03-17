@@ -1,4 +1,4 @@
-# Suspicious Login Detector
+<h1 align="center">Suspicious Login Detector</h1>
 <p align="center">
   <img width="400" height="335" alt="Dashboard" src="https://github.com/user-attachments/assets/d7754f4e-dad1-4e8e-8229-c54e93717ed9" />
 </p>
