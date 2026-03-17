@@ -27,6 +27,7 @@ The system is designed as an educational cybersecurity project that demonstrates
 ## Project Structure
 
 
+```
 suspicious-login-detector/
 │
 ├── backend/
@@ -39,6 +40,7 @@ suspicious-login-detector/
 │   └── dashboard/ (planned)
 │
 └── README.md
+```
 
 ## Future Improvements
 - Real-time alert dashboard
