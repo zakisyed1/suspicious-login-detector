@@ -1,11 +1,13 @@
 <h1 align="center">Suspicious Login Detector</h1>
 <p align="center">
+  <p align="center">
+  <img width="828" height="153" alt="Alerts" src="https://github.com/user-attachments/assets/8eda8674-c8f5-4595-a2aa-f2069f057897" />
+</p>
+
   <img width="400" height="335" alt="Dashboard" src="https://github.com/user-attachments/assets/d7754f4e-dad1-4e8e-8229-c54e93717ed9" />
 </p>
 
-<p align="center">
-  <img width="828" height="153" alt="Alerts" src="https://github.com/user-attachments/assets/8eda8674-c8f5-4595-a2aa-f2069f057897" />
-</p>
+
 
 
 
