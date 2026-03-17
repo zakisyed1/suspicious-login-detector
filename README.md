@@ -1,11 +1,15 @@
 # Suspicious Login Detector
 
+<img width="676" height="436" alt="Dashboard" src="https://github.com/user-attachments/assets/d7754f4e-dad1-4e8e-8229-c54e93717ed9" /> <img width="828" height="153" alt="Alerts" src="https://github.com/user-attachments/assets/8eda8674-c8f5-4595-a2aa-f2069f057897" />
+
+
+
 A Python-based security monitoring tool that analyzes authentication logs and detects suspicious login activity using rule-based threat detection. The project simulates a lightweight Security Operations Center (SOC) workflow by identifying potentially malicious behavior and surfacing structured alerts for review.
 
 ## Overview
 This project aims to create a lightweight login threat detection system that processes authentication events and flags suspicious patterns such as brute-force attempts, unusual login times, impossible travel, and access from blacklisted IPs.
 
-The system is designed as an educational cybersecurity project that demonstrates log analysis, rule-based detection, and alert generation in a practical and portfolio-ready format.
+The system is designed as a cybersecurity project that demonstrates log analysis, rule based detection, and alerts in a practical format.
 
 ## Features
 - Brute-force login detection
