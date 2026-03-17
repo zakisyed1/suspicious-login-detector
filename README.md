@@ -25,16 +25,18 @@ The system is designed as an educational cybersecurity project that demonstrates
 - Nmap (optional future enrichment)
 
 ## Project Structure
-suspicious-login-detector
+
+
+suspicious-login-detector/
 │
-├── backend
+├── backend/
 │   ├── detector.py
 │   ├── sample_logs.json
 │   ├── blacklist.json
 │   └── app.py
 │
-├── frontend
-│   └── dashboard (planned)
+├── frontend/
+│   └── dashboard/ (planned)
 │
 └── README.md
 
