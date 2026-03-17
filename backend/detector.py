@@ -1,4 +1,5 @@
 import json
+from datetime import datetime
 
 print("RUNNING SCRIPT...\n")
 
@@ -18,3 +19,9 @@ for log in logs:
 
     if log["status"] == "failed":
         print(f"[WARNING] Failed login from {log['ip']}")
+
+    timestamp = datetime.fromisoformat(log["timestamp"])
+    hour = timestamp.hour
+
+    if log["status"] == "success" and (hour < 6 or hour >= 22):
+        print(f"[MEDIUM] Off-hours login detected for {log['username']} at {timestamp.strftime('%H:%M')}")
